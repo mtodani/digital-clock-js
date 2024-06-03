@@ -14,5 +14,9 @@
 - 時刻は1秒ごとに更新されます。
 
 ## 使用方法
+### ローカルでの閲覧
+ `index.html`をブラウザで開きます。
+### 公開URL
+このデジタル時計アプリは以下のURLでも公開しています。  
+https://mtodani.github.io/digital-clock-js/
 
-1. `index.html`をブラウザで開きます。
