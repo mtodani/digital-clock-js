@@ -1,0 +1,20 @@
+/* タイトルのスタイル */
+.title {
+    text-align: center;
+}
+
+/* 時計の共通スタイル */
+.clock {
+    color: blue;
+    text-align: center;
+}
+
+/* 日付のスタイル */
+.clock-date {
+    font-size: 50px;
+}
+
+/* 時間のスタイル */
+.clock-time {
+    font-size: 100px;
+}
